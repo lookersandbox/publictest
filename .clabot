@@ -1,6 +1,7 @@
 {
   "contributors": [
-    "lookersandbox"
+    "lookersandbox",
+    "aabrahamian"
   ],
   "message": "We require contributors to sign our Contributor License Agreement, and we don\"t have {{usersWithoutCLA}} on file. In order for us to review and merge your code, please follow TBD INSTRUCTIONS HERE to get yourself added."
 }
